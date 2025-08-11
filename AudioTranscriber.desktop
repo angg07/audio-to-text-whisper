@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Audio Transcriber
+Comment=Konversi audio ke teks Word
+Icon=/home/kodzjek/Development/Python/Audio-to-text/icon.png
+Exec=/home/kodzjek/Development/Python/Audio-to-text/audio2word_env/bin/python /home/kodzjek/Development/Python/Audio-to-text/audio_to_word_gui.py
+Terminal=false
+Categories=AudioVideo;Utility;
+StartupNotify=true
+Path=/home/kodzjek/Development/Python/Audio-to-text/
